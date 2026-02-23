@@ -3,7 +3,7 @@
 > [!NOTE]
 > Provide a project title in the heading above. Just below this note write a short description of the application you plan to build.
 
-[We want to create a calender program to have the regular functionality of a local calender, but with the idea of integrating more people to make it a group calender that can help with family planning or event planning in general]
+[We want to create a calender program to have the regular functionality of a local calender, but with the integration of more people to make it a group calender that can help with family planning or event planning]
 
 ## Tech-stack
 
