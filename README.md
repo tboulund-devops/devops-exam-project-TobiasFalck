@@ -11,7 +11,7 @@
 > Write a short description of your tech-stack here in terms of programming language(s) and database engine(s).
 
 [ 
-- Visual Studio 2022 (with .NET 10 SDK)  
+- Visual Studio 2022 (with .NET 9 SDK)  
 - Docker Desktop
 - SQL Server
 - Postman
