@@ -1,16 +1,21 @@
-# [...]
+# [Calender]
 
 > [!NOTE]
 > Provide a project title in the heading above. Just below this note write a short description of the application you plan to build.
 
-[...]
+[We want to create a calender program to have the regular functionality of a local calender, but with the idea of integrating more people to make it a group calender that can help with family planning or event planning in general]
 
 ## Tech-stack
 
 > [!NOTE]
 > Write a short description of your tech-stack here in terms of programming language(s) and database engine(s).
 
-[...]
+[ 
+- Visual Studio 2022 (with .NET 10 SDK)  
+- Docker Desktop
+- SQL Server
+- Postman
+]
 
 ## Architecture
 
