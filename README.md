@@ -14,7 +14,6 @@
 - Visual Studio 2022 (with .NET 9 SDK)  
 - Docker Desktop
 - SQL Server
-- Postman
 ]
 
 ## Architecture
